@@ -1,6 +1,12 @@
-# DiskMap
+<p align="center">
+  <img src="Assets/DiskMap.png" width="128" height="128" alt="DiskMap application icon">
+</p>
 
-A tiny native macOS 15 disk-space viewer inspired by SpaceMonger 1.4. It uses nested rectangles whose area is proportional to each file or folder's allocated size.
+<h1 align="center">DiskMap</h1>
+
+<p align="center">A tiny native macOS 15 disk-space viewer inspired by SpaceMonger 1.4. It uses nested rectangles whose area is proportional to each file or folder's allocated size.</p>
+
+![DiskMap displaying the contents of a macOS startup disk as a treemap](screenshot.png)
 
 ## Build
 
